@@ -25,7 +25,7 @@ The goal is to understand sales trends, detect spikes, and provide accurate fore
 
 ### 👤 Author
 **Jagdish Sharma**  
-📧 *[jagdishsharma464347@gmail.com]*  
+📧 **[jagdishsharma464347@gmail.com]**  
 📍 India  
-🔗 [GitHub Profile](https://github.com/your-username)
+
 ---
